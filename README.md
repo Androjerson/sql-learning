@@ -1,0 +1,1 @@
+I record my SQL learnings here 
